@@ -1,4 +1,4 @@
-/node_modules
+todolist-v2/node_modules
 npm-debug.log
 .DS_Store
 /*.env
